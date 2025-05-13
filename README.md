@@ -23,5 +23,7 @@ python3 consultar_recorrentes.py
 - `consultar_recorrentes.py`: Negócios recorrentes.
 
 ---
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+[→ Documentação Bitrix24](https://training.bitrix24.com/rest_help/)
 
-Feito com 💻 por Bruna Gabriela ✨
+Develped by B2 ✨
