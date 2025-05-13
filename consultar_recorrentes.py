@@ -1,6 +1,6 @@
 import requests
 
-WEBHOOK_URL = "https://helpbr24.bitrix24.com.br/rest/12/s2ijlflqcsxil4ao/crm.deal.recurring.list.json"
+WEBHOOK_URL = "--"
 
 payload = {
     "filter": {
